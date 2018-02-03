@@ -1,0 +1,60 @@
+tr.q2apro-bu-row td {
+	border:1px solid #DDD !important;
+}
+.bu_monthname {
+	margin:18px 0;
+	font-size:16px;
+}
+.q2apro-bu-count {
+	font-size:13px;
+}
+.q2apro-bu-label {
+	font-size:13px;
+	min-width:100px;
+	padding:5px 0 5px 5px;
+}
+.q2apro-bu-location {
+	font-size:13px;
+}
+.q2apro-bu-score {
+	font-size:13px;
+	min-width:80px;
+}
+.q2apro-bu-points {
+	color:#55C;
+}
+.q2apro-bu-acount {
+	display:block;
+}
+.q2apro-bu-score {
+	text-align:right;
+}
+.q2apro-bu-about {
+	font-size:13px;
+}
+.rewardsBox {
+	margin-bottom:30px;
+}
+.rewardsBox .p1 {
+	font-size:14px;
+	margin:0 0 5px 2px;
+	line-height:140%;
+	font-weight:bold;
+}
+.rewardsBox .p2 {
+	font-size:14px;
+	line-height:140%;
+	margin-left:2px;
+	margin-bottom:0;
+}
+form#datepick {
+	display:block;
+	margin-bottom:20px;
+	font-size:14px;
+}
+input#datepicker {
+	width:75px;
+	padding-left:3px;
+	cursor:pointer;
+}
+
